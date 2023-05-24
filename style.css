@@ -1,0 +1,67 @@
+.regg{
+background-color: 828948;
+
+  padding-left: 35%;
+    padding-top: 10%;
+    margin-right: 5%;
+   background-image: url("img/life.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.frm{
+border: 3px solid white;
+    width: 50%;
+
+   padding-left: 4%;
+padding-bottom: 2%;
+    background-color: #e86d6d;
+   border-radius: 10px;
+  
+}
+
+
+
+.loginbody{
+
+ background-image: url("img/neom-urBne08-lTQ-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+  padding-left: 35%;
+    padding-top: 10%;
+    margin-right: 5%;
+
+}
+
+.formlogin{
+border: 3px solid white;
+    width: 50%;
+    
+ background-color: #e86d6d;
+   border-radius: 10px;
+   padding-left: 4%;
+padding-bottom: 5%;
+    
+  
+}
+
+.home{
+ background-image: url("img/john-schnobrich-FlPc9_VocJ4-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.home .dv{
+   color: white;
+    font-weight: bold;
+    font-size: 20px;
+    
+     
+}
+
+
+
